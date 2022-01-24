@@ -1,4 +1,4 @@
-#Elige tu propia aventura.
+# Elige tu propia aventura.
 
 App hecha con React basada en un libro de "Elige tu propia Aventura".
 
